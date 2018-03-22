@@ -1,12 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.16",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "FMODStudio",
-			"Enabled": false
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:360cca9367d1a921db82c95be52d3735f6a230cc9c045a389271836648fdcbca
+size 170
